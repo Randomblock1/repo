@@ -1,0 +1,32 @@
+{
+	"bundle_id": "com.randomblock1.neofetch",
+	"name": "Neofetch",
+	"version": "7.0.0",
+	"tagline": "A command-line system information tool written in bash",
+	"homepage": "https://github.com/dylanaraps/neofetch",
+	"developer": {
+		"name": "Randomblock1",
+		"email": "randomblock1@pm.me"
+	},
+	"maintainer": {
+		"name": "Randomblock1",
+		"email": "randomblock1@pm.me"
+	},
+
+
+	"section": "Tools",
+	"pre_dependencies": "",
+	"dependencies": "bash, coreutils-bin, coreutils, darwintools, system-cmds, gawk, grep",
+	"conflicts": "",
+	"replaces": "com.matdev.neofetch-ios",
+	"provides": "",
+
+	"tint": "#55c6d3",
+	"works_min": "10.0",
+	"works_max": "",
+	"featured": "true",
+	"changelog": [{
+		"version": "7.0.0",
+		"changes": "Initial upload"
+	}]
+}
