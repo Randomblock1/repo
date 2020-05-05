@@ -14,7 +14,7 @@
 	},
 
 
-	"section": "Tools",
+	"section": "Utilities",
 	"pre_dependencies": "",
 	"dependencies": "bash, coreutils-bin, coreutils, darwintools, system-cmds, gawk, grep",
 	"conflicts": "",
@@ -23,7 +23,7 @@
 
 	"tint": "#55c6d3",
 	"works_min": "10.0",
-	"works_max": "",
+	"works_max": "14.0",
 	"featured": "true",
 	"changelog": [{
 		"version": "7.0.0",

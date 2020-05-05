@@ -1,0 +1,32 @@
+{
+	"bundle_id": "jp.akusio.kernbypassd",
+	"name": "KernBypass Daemon",
+	"version": "0.0.1",
+	"tagline": "KernBypass as a daemon",
+	"homepage": "https://randomblock1.github.io",
+	"developer": {
+		"name": "Randomblock1",
+		"email": "randomblock1@pm.me"
+	},
+	"maintainer": {
+		"name": "Randomblock1",
+		"email": "randomblock1@pm.me"
+	},
+
+
+	"section": "System",
+	"pre_dependencies": "",
+	"dependencies": "jp.akusio.kernbypass",
+	"conflicts": "",
+	"replaces": "",
+	"provides": "",
+
+	"tint": "#55c6d3",
+	"works_min": "13.0",
+	"works_max": "14.0",
+	"featured": "true",
+	"changelog": [{
+		"version": "0.0.1",
+		"changes": "Initial release"
+	}]
+}

@@ -23,7 +23,7 @@
 
 	"tint": "#55c6d3",
 	"works_min": "10.0",
-	"works_max": "13.0",
+	"works_max": "14.0",
 	"featured": "true",
 	"changelog": [{
 		"version": "1.1",
