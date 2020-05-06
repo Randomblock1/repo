@@ -22,7 +22,7 @@
 	"provides": "",
 
 	"tint": "#55c6d3",
-	"works_min": "13.0",
+	"works_min": "12.0",
 	"works_max": "14.0",
 	"featured": "true",
 	"changelog": [{
