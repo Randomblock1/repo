@@ -1,8 +1,8 @@
 {
 	"bundle_id": "jp.akusio.kernbypassd",
-	"name": "KernBypass Daemon",
+	"name": "KernBypass Daemon (DO NOT USE)",
 	"version": "0.0.2",
-	"tagline": "KernBypass as a daemon",
+	"tagline": "DO NOT USE",
 	"homepage": "https://randomblock1.github.io",
 	"developer": {
 		"name": "Randomblock1",
@@ -24,10 +24,10 @@
 	"tint": "#55c6d3",
 	"works_min": "12.0",
 	"works_max": "14.0",
-	"featured": "true",
+	"featured": "false",
 	"changelog": [{
 		"version": "0.0.2",
-		"changes": "Fix bug"
+		"changes": "Fix bug (but actually doesn't)"
 	}, {
 		"version": "0.0.1",
 		"changes": "Initial release"}]

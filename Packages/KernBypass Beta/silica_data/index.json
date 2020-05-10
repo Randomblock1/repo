@@ -1,0 +1,36 @@
+{
+	"bundle_id": "jp.akusio.kernbypassbeta",
+	"name": "KernBypass Beta",
+	"version": "0.0.3b",
+	"tagline": "Beta Version",
+	"homepage": "https://github.com/akusio/KernBypass-Public",
+	"developer": {
+		"name": "akusio"
+	},
+	"maintainer": {
+		"name": "Randomblock1",
+		"email": "randomblock1@pm.me"
+	},
+
+
+	"section": "System",
+	"pre_dependencies": "",
+	"dependencies": "mobilesubstrate, applist, preferenceloader, firmware(>=12.0)",
+	"conflicts": "",
+	"replaces": "jp.akusio.kernbypass",
+	"provides": "",
+
+	"tint": "#55c6d3",
+	"works_min": "12.0",
+	"works_max": "14.0",
+	"featured": "false",
+	"changelog": [{
+		"version": "0.0.3b",
+		"changes": "Add KernBypass Daemon"
+	}, {
+		"version": "0.0.2",
+		"changes": "Add iOS 12 support + bug fixes"
+	}, {
+		"version": "0.0.1",
+		"changes": "Initial release"}]
+}
