@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: imfast.io
+Token: 2eea8464dd49b3c898aebd175b5871f936580d35f4b1b9fe55dc19a0dc11cc0b
