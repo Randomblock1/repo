@@ -546,5 +546,5 @@ class DebianPackager(object):
         """
         # TODO: use GitPython instead of calling Git directly.
         call(["git", "add", "."], cwd=self.root)
-        call(["git", "commit", "-am", "Repo contents updated via Silica"], cwd=self.root)
+        call(["git", "commit", "-am", "Update repo"], cwd=self.root)
         call(["git", "push"], cwd=self.root)
