@@ -1,0 +1,31 @@
+{
+	"bundle_id": "com.randomblock1.fleetsbgone",
+	"name": "FleetsBGone",
+	"version": "1.0",
+	"tagline": "Removes Twitter Fleets",
+	"homepage": "https://github.com/randomblock1/fleetsbgone",
+	"developer": {
+		"name": "Randomblock1"
+	},
+	"maintainer": {
+		"name": "Randomblock1",
+		"email": "randomblock1@pm.me"
+	},
+
+
+	"section": "Tweaks",
+	"pre_dependencies": "",
+	"dependencies": "mobilesubstrate, firmware(>=11.0)",
+	"conflicts": "",
+	"replaces": "",
+	"provides": "",
+
+	"tint": "#55c6d3",
+	"works_min": "11.0",
+	"works_max": "99.0",
+	"featured": "false",
+	"changelog": [{
+		"version": "1.0",
+		"changes": "Initial release"
+	}, ]
+}
