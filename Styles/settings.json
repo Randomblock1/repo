@@ -7,5 +7,15 @@
         "name": "Randomblock1",
         "email": "therealrandomblock1@gmail.com"
     },
+    "social": [
+    	{
+    		"name": "Twitter",
+    		"url": "https://twitter.com/randomblock1_"
+    	},
+    	{
+    		"name": "Website",
+    		"url": "https://randomblock1.com"
+    	}
+    ],
     "automatic_git": "true"
 }

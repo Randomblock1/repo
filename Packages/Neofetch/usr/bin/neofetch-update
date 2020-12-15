@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+sudo curl -sS https://raw.githubusercontent.com/dylanaraps/neofetch/master/neofetch -O /usr/bin/neofetch

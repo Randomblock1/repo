@@ -1,7 +1,7 @@
 {
 	"bundle_id": "com.randomblock1.neofetch",
 	"name": "Neofetch",
-	"version": "7.0.0",
+	"version": "7.1.0",
 	"tagline": "A command-line system information tool written in bash",
 	"homepage": "https://github.com/dylanaraps/neofetch",
 	"developer": {
@@ -22,10 +22,14 @@
 	"provides": "",
 
 	"tint": "#55c6d3",
-	"works_min": "10.0",
-	"works_max": "14.0",
+	"works_min": "7.0",
+	"works_max": "99.0",
 	"featured": "true",
 	"changelog": [{
+		"version": "7.1.0",
+		"changes": "Updated neofetch and added neofetch-update"
+	},
+	{
 		"version": "7.0.0",
 		"changes": "Initial upload"
 	}]
