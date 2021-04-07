@@ -1,0 +1,31 @@
+{
+	"bundle_id": "com.randomblock1.jbstickers",
+	"name": "Jailbreak Sticker Pack",
+	"version": "1.0-1",
+	"tagline": "Jailbreak stickers for iMessage",
+	"homepage": "https://github.com/Randomblock1/jailbreak-sticker-pack",
+	"developer": {
+		"name": "Randomblock1",
+		"email": "randomblock1@pm.me"
+	},
+	"maintainer": {
+		"name": "Randomblock1",
+		"email": "randomblock1@pm.me"
+	},
+
+
+	"section": "Stickers (iMessage)",
+	"pre_dependencies": "",
+	"dependencies": "firmware(>=10.0)",
+	"conflicts": "",
+	"replaces": "",
+	"provides": "",
+
+	"tint": "#55c6d3",
+	"works_min": "10.0",
+	"works_max": "99.0",
+	"featured": "true",
+	"changelog": [{
+		"version": "1.0-1",
+		"changes": "initial release"}]
+}

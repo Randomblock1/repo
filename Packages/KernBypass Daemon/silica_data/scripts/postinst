@@ -1,3 +1,0 @@
-#!/bin/sh
-chown root:wheel /Library/LaunchDaemons/jp.akusio.kernbypassd.plist
-launchctl load /Library/LaunchDaemons/jp.akusio.kernbypassd.plist

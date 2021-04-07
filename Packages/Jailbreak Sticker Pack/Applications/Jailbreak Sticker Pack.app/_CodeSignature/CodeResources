@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>Assets.car</key>
+		<data>
+		u75HMf9gdfEB19U7/yZ1QEnBUqs=
+		</data>
+		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
+		<data>
+		rqFA6hPfSHH4CWZ0bothNAK0IU0=
+		</data>
+		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
+		<data>
+		n2t8gsDpfE6XkhG31p7IQJRxTxU=
+		</data>
+		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
+		<data>
+		5P7EbWTHbEatJdo8uGnpWe0+jC8=
+		</data>
+		<key>Info.plist</key>
+		<data>
+		pPyP98DXxspHofzAVUGmHfTGDWo=
+		</data>
+		<key>PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Assets.car</key>
+		<data>
+		xzcK1vvhQqmM+Bl+LMVQkfYMFtE=
+		</data>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Info.plist</key>
+		<data>
+		gniXqjJmcQtvPVTX4lIvWqr7U7Y=
+		</data>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Jailbreak Sticker Pack StickerPackExtension</key>
+		<data>
+		2CKOh/J0Ap0PO7BnTNJilB0PAT0=
+		</data>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Sticker Pack.stickerpack/Info.plist</key>
+		<data>
+		6HzaYRFxuCQ8WwwTvwQGUwPtO2U=
+		</data>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Sticker Pack.stickerpack/altstore.png</key>
+		<data>
+		nTJF9Ym+oxpkWCiKxMApnOSFtm4=
+		</data>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Sticker Pack.stickerpack/checkra1n.png</key>
+		<data>
+		67GPpy/2IjVqYuB6MB7vr/EI0DU=
+		</data>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Sticker Pack.stickerpack/chimera.png</key>
+		<data>
+		VCe8kXli0z4fVTBV8afDWnevKUk=
+		</data>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Sticker Pack.stickerpack/cydia.png</key>
+		<data>
+		Mf+3/ogw6wkkcsaqnGaPojg2eGc=
+		</data>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Sticker Pack.stickerpack/impactor.png</key>
+		<data>
+		aivZM9ZOb7k8pmltkta/rBmgfSE=
+		</data>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Sticker Pack.stickerpack/installer.png</key>
+		<data>
+		EIlJ01g7zESkGFfLIsH50KRblk0=
+		</data>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Sticker Pack.stickerpack/libhooker.png</key>
+		<data>
+		F2ZF5qn/WOeqTi35S7TQ+c5fKxQ=
+		</data>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Sticker Pack.stickerpack/odyssey.png</key>
+		<data>
+		cg+p6Rr4wV1GcnRUSrk0xkqCqek=
+		</data>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Sticker Pack.stickerpack/packix.png</key>
+		<data>
+		ChdJwzv+AXEvg90G8JCs5zzuKWE=
+		</data>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Sticker Pack.stickerpack/reprovisionreborn.png</key>
+		<data>
+		m81PJsmorPuoQs0D24xHBaIHAio=
+		</data>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Sticker Pack.stickerpack/rjailbreak.png</key>
+		<data>
+		s//A16EDK7xXzvl2SYAdu6Z7bRQ=
+		</data>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Sticker Pack.stickerpack/sileo.png</key>
+		<data>
+		cIx+2isSWelJjFElGpyA/i+4Kbo=
+		</data>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Sticker Pack.stickerpack/substitute.png</key>
+		<data>
+		knQ8RY52IZTqG3WWnGIu9suNH04=
+		</data>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Sticker Pack.stickerpack/taurine.png</key>
+		<data>
+		CEVibAwjbJTJ6RzH+f0w5W5F54M=
+		</data>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Sticker Pack.stickerpack/unc0ver.png</key>
+		<data>
+		oP7ynUbJFn/5Nm/3kYQ3cVMKvrE=
+		</data>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Sticker Pack.stickerpack/zebra.png</key>
+		<data>
+		M3WcmoaxVGUGZiNQT/IQYWOCXEY=
+		</data>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/_CodeSignature/CodeResources</key>
+		<data>
+		qJfFs9YQ64WfgCzyaJjRxgqR3RA=
+		</data>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/embedded.mobileprovision</key>
+		<data>
+		eRNFyCD23fYbLPa5Sz6m3kjVa24=
+		</data>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/iMessage App Icon27x20@2x.png</key>
+		<data>
+		07nuDA/FpO/omGtLUpH1bKPT/58=
+		</data>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/iMessage App Icon27x20@3x.png</key>
+		<data>
+		KAzWfHq6stEyijy8hQszo9X5cdA=
+		</data>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/iMessage App Icon32x24@2x.png</key>
+		<data>
+		OVLNOTLtykwoExLin1gaqBSZCyQ=
+		</data>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/iMessage App Icon32x24@3x.png</key>
+		<data>
+		NF6KYrQmXcOsuhFlw7zQS/j5tk8=
+		</data>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/iMessage App Icon60x45@2x.png</key>
+		<data>
+		9tzEVeUlXrz70wJSC63IKmTSnrw=
+		</data>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/iMessage App Icon60x45@3x.png</key>
+		<data>
+		nOypoIfH0FBkuCTO0RBGAlECxKM=
+		</data>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/iMessage App Icon67x50@2x.png</key>
+		<data>
+		06EJis6AGMLzZ1aqjX/fsATX+G8=
+		</data>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/iMessage App Icon74x55@2x.png</key>
+		<data>
+		Wm/g/H8ni95p1PSSeRRDkmnzICQ=
+		</data>
+		<key>embedded.mobileprovision</key>
+		<data>
+		hAj4rxPd0IpBlXlvWnxwzoRToAw=
+		</data>
+		<key>iMessage App Icon20x20@2x.png</key>
+		<data>
+		5W89/h3JQBcXdYJ3GthzOfmu+AU=
+		</data>
+		<key>iMessage App Icon20x20@2x~ipad.png</key>
+		<data>
+		5W89/h3JQBcXdYJ3GthzOfmu+AU=
+		</data>
+		<key>iMessage App Icon20x20@3x.png</key>
+		<data>
+		rGeQqke8mIvLgBYGmahIkgrBSsk=
+		</data>
+		<key>iMessage App Icon20x20~ipad.png</key>
+		<data>
+		fNi/TY2GunhRPxjwRKhS9ZwnAZM=
+		</data>
+		<key>iMessage App Icon29x29@2x.png</key>
+		<data>
+		PhAAM6FNxnkoe7m2fqzdjgtHomQ=
+		</data>
+		<key>iMessage App Icon29x29@2x~ipad.png</key>
+		<data>
+		PhAAM6FNxnkoe7m2fqzdjgtHomQ=
+		</data>
+		<key>iMessage App Icon29x29@3x.png</key>
+		<data>
+		pSjxLO/Zkh5qa+N28ORyv5qj6HY=
+		</data>
+		<key>iMessage App Icon40x40@2x.png</key>
+		<data>
+		fUCWi/OYuYx0fa08csFbSX2TgJA=
+		</data>
+		<key>iMessage App Icon40x40@2x~ipad.png</key>
+		<data>
+		fUCWi/OYuYx0fa08csFbSX2TgJA=
+		</data>
+		<key>iMessage App Icon40x40@3x.png</key>
+		<data>
+		LA2SadghCIbp/QYXRfTAmAkqTzQ=
+		</data>
+		<key>iMessage App Icon40x40~ipad.png</key>
+		<data>
+		5W89/h3JQBcXdYJ3GthzOfmu+AU=
+		</data>
+		<key>iMessage App Icon60x60@2x.png</key>
+		<data>
+		LA2SadghCIbp/QYXRfTAmAkqTzQ=
+		</data>
+		<key>iMessage App Icon60x60@3x.png</key>
+		<data>
+		Ykn7Un2+HlxFkL68gtP/aDYjuvE=
+		</data>
+		<key>iMessage App Icon76x76@2x~ipad.png</key>
+		<data>
+		pbI0pBWdoDHRVV2wSn1+7609TXY=
+		</data>
+		<key>iMessage App Icon76x76~ipad.png</key>
+		<data>
+		MwCGneNF/fv9gIZ8OAJ+Mffr34w=
+		</data>
+		<key>iMessage App Icon83.5x83.5@2x~ipad.png</key>
+		<data>
+		oO+yzSOShG3XNM6Z5XVJF5nNFV0=
+		</data>
+	</dict>
+	<key>files2</key>
+	<dict>
+		<key>Assets.car</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			u75HMf9gdfEB19U7/yZ1QEnBUqs=
+			</data>
+			<key>hash2</key>
+			<data>
+			JvMxhlRBsvlLlNk6iCRWJoc7MZtJS/+Hx151jjQSrbM=
+			</data>
+		</dict>
+		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rqFA6hPfSHH4CWZ0bothNAK0IU0=
+			</data>
+			<key>hash2</key>
+			<data>
+			AbKf2xGfGzwwgB33je1oEEslPu7l62RFtkPaa9cKKDU=
+			</data>
+		</dict>
+		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			n2t8gsDpfE6XkhG31p7IQJRxTxU=
+			</data>
+			<key>hash2</key>
+			<data>
+			HyVdXMU7Ux4/KalAao30mpWOK/lEPT4gvYN09wf31cg=
+			</data>
+		</dict>
+		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5P7EbWTHbEatJdo8uGnpWe0+jC8=
+			</data>
+			<key>hash2</key>
+			<data>
+			3CmSMPDVqQn8I1BFDqb4BH569pv91ttxc1+V4m1y6+s=
+			</data>
+		</dict>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Assets.car</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xzcK1vvhQqmM+Bl+LMVQkfYMFtE=
+			</data>
+			<key>hash2</key>
+			<data>
+			tLpwERb5wUhWbEdKcI9Z7ZCJTmKgHFglShhyW6e1q0c=
+			</data>
+		</dict>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gniXqjJmcQtvPVTX4lIvWqr7U7Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			5+pYfeNzuxYKJxDmIK7mCk6TUlsH4hQhSgWfQt6OfCI=
+			</data>
+		</dict>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Jailbreak Sticker Pack StickerPackExtension</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2CKOh/J0Ap0PO7BnTNJilB0PAT0=
+			</data>
+			<key>hash2</key>
+			<data>
+			xknEoRWsRrJVh1Bf6LxpknEJ50XYycZEi7AGSXr+kdQ=
+			</data>
+		</dict>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Sticker Pack.stickerpack/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6HzaYRFxuCQ8WwwTvwQGUwPtO2U=
+			</data>
+			<key>hash2</key>
+			<data>
+			XA9NJr8p9f5KT2/+Vx05fBG89NzRIINw65thi8oVXCQ=
+			</data>
+		</dict>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Sticker Pack.stickerpack/altstore.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nTJF9Ym+oxpkWCiKxMApnOSFtm4=
+			</data>
+			<key>hash2</key>
+			<data>
+			hi4BeQbw2sX6SOB2QxsYmv/O7oqhCEAho28sea4aIOw=
+			</data>
+		</dict>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Sticker Pack.stickerpack/checkra1n.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			67GPpy/2IjVqYuB6MB7vr/EI0DU=
+			</data>
+			<key>hash2</key>
+			<data>
+			FTtRMV+WzR2A3bqfKOHZAOm44UHNG5yDl4NQrsGzPl8=
+			</data>
+		</dict>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Sticker Pack.stickerpack/chimera.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VCe8kXli0z4fVTBV8afDWnevKUk=
+			</data>
+			<key>hash2</key>
+			<data>
+			6HGtROwST+iXWd6H3ed/GiFV8zyNGgrPxZRzfwtliXI=
+			</data>
+		</dict>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Sticker Pack.stickerpack/cydia.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Mf+3/ogw6wkkcsaqnGaPojg2eGc=
+			</data>
+			<key>hash2</key>
+			<data>
+			eTAtuieeuOmT6WfG5mQB+tXlQexzea38necbNvomZBU=
+			</data>
+		</dict>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Sticker Pack.stickerpack/impactor.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			aivZM9ZOb7k8pmltkta/rBmgfSE=
+			</data>
+			<key>hash2</key>
+			<data>
+			u5dy8Lb7Ll0So5r7oaPtyZ21vwv5wW5WfibpDWeG3QE=
+			</data>
+		</dict>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Sticker Pack.stickerpack/installer.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EIlJ01g7zESkGFfLIsH50KRblk0=
+			</data>
+			<key>hash2</key>
+			<data>
+			uVy4AoxgTUJo2y9KZhLGokGtt3+8iUXxwLfQThXMptY=
+			</data>
+		</dict>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Sticker Pack.stickerpack/libhooker.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			F2ZF5qn/WOeqTi35S7TQ+c5fKxQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			nh+U+N2ar29Tspad9LHdwuyGaS6wcmnYssoQglk1z7c=
+			</data>
+		</dict>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Sticker Pack.stickerpack/odyssey.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cg+p6Rr4wV1GcnRUSrk0xkqCqek=
+			</data>
+			<key>hash2</key>
+			<data>
+			bQlyKUNoHDOxK9pDh2qKFHcmr7b0d/oL6oXeYiamBAM=
+			</data>
+		</dict>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Sticker Pack.stickerpack/packix.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ChdJwzv+AXEvg90G8JCs5zzuKWE=
+			</data>
+			<key>hash2</key>
+			<data>
+			zHaPfuz/7YVGxi+2bs8TCgJ76p4AK6vbLYmMdy9Cw/Q=
+			</data>
+		</dict>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Sticker Pack.stickerpack/reprovisionreborn.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			m81PJsmorPuoQs0D24xHBaIHAio=
+			</data>
+			<key>hash2</key>
+			<data>
+			1tV0E3+0IhkyMezUuHHtAjnxqaMskQWKR+NHIAn57D0=
+			</data>
+		</dict>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Sticker Pack.stickerpack/rjailbreak.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			s//A16EDK7xXzvl2SYAdu6Z7bRQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			2N2odv6lv2FH6DMJDNpWKv6kap73CLkoWFi7tr1vHGw=
+			</data>
+		</dict>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Sticker Pack.stickerpack/sileo.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cIx+2isSWelJjFElGpyA/i+4Kbo=
+			</data>
+			<key>hash2</key>
+			<data>
+			GNI5sAt/GuAcnwlnWD+Y3cgQvxNBwk9ElF3tnR39dLM=
+			</data>
+		</dict>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Sticker Pack.stickerpack/substitute.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			knQ8RY52IZTqG3WWnGIu9suNH04=
+			</data>
+			<key>hash2</key>
+			<data>
+			NdaWhYCD1QPXusEbYFQlmVCWe3Qgh3CBqPS7GA0XZIE=
+			</data>
+		</dict>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Sticker Pack.stickerpack/taurine.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CEVibAwjbJTJ6RzH+f0w5W5F54M=
+			</data>
+			<key>hash2</key>
+			<data>
+			EC1sa2qggSpRU1fzmCMZ13nR6CPIaYkHjlFi/zAnzwQ=
+			</data>
+		</dict>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Sticker Pack.stickerpack/unc0ver.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oP7ynUbJFn/5Nm/3kYQ3cVMKvrE=
+			</data>
+			<key>hash2</key>
+			<data>
+			ntznxWd8wcj9QzQq4tfcgCesBeueZilOwl8WTI1BIwQ=
+			</data>
+		</dict>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/Sticker Pack.stickerpack/zebra.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			M3WcmoaxVGUGZiNQT/IQYWOCXEY=
+			</data>
+			<key>hash2</key>
+			<data>
+			8Lumd1POXVn7J48VjmiqP/eg6Dy49EpJeV2mY9/ZQdU=
+			</data>
+		</dict>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qJfFs9YQ64WfgCzyaJjRxgqR3RA=
+			</data>
+			<key>hash2</key>
+			<data>
+			JxS/DPjun0Ge4bJMn3C2Fs9FVgzOByW9sRAg4HJdUEw=
+			</data>
+		</dict>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/embedded.mobileprovision</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eRNFyCD23fYbLPa5Sz6m3kjVa24=
+			</data>
+			<key>hash2</key>
+			<data>
+			tFSwAhtmRHq3DyiGttylfQ6CB72X6pd8piz6ZoKvpzM=
+			</data>
+		</dict>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/iMessage App Icon27x20@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			07nuDA/FpO/omGtLUpH1bKPT/58=
+			</data>
+			<key>hash2</key>
+			<data>
+			7Y9JAM6537LMaHvaCGXKstruW6Rpz4qsJx5Et8IbsTs=
+			</data>
+		</dict>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/iMessage App Icon27x20@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KAzWfHq6stEyijy8hQszo9X5cdA=
+			</data>
+			<key>hash2</key>
+			<data>
+			VXvy9MrAi0ARRMd9wvNDeKJIAigGJaPYMkruMYfN9jc=
+			</data>
+		</dict>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/iMessage App Icon32x24@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OVLNOTLtykwoExLin1gaqBSZCyQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			Kh8k/NGjhCPrD5gAWfLzuPw90p2Z9+D8WIpuMo+YROs=
+			</data>
+		</dict>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/iMessage App Icon32x24@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NF6KYrQmXcOsuhFlw7zQS/j5tk8=
+			</data>
+			<key>hash2</key>
+			<data>
+			uHgd/O0QXXPPrJRjqvIvBwNKjfOKhIld1ZRypYkFwF4=
+			</data>
+		</dict>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/iMessage App Icon60x45@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9tzEVeUlXrz70wJSC63IKmTSnrw=
+			</data>
+			<key>hash2</key>
+			<data>
+			sNDJ7MSAwZ29oX7uG1dd3RBbesmC533C1+2O4JG5NCQ=
+			</data>
+		</dict>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/iMessage App Icon60x45@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nOypoIfH0FBkuCTO0RBGAlECxKM=
+			</data>
+			<key>hash2</key>
+			<data>
+			pc7+Dldp1C8Oi5oJxJ/b8IIPRRhwKGgN1h30bpTJJI8=
+			</data>
+		</dict>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/iMessage App Icon67x50@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			06EJis6AGMLzZ1aqjX/fsATX+G8=
+			</data>
+			<key>hash2</key>
+			<data>
+			wAX6eLgWPLoTtouoo8IK1ZfSN1SBgUzmKhgGLtXfVNU=
+			</data>
+		</dict>
+		<key>PlugIns/Jailbreak Sticker Pack StickerPackExtension.appex/iMessage App Icon74x55@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Wm/g/H8ni95p1PSSeRRDkmnzICQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			6/LWIJlRVudRWa+M6IEuCSmKJd5JBbhFKWks0uhgCaQ=
+			</data>
+		</dict>
+		<key>embedded.mobileprovision</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hAj4rxPd0IpBlXlvWnxwzoRToAw=
+			</data>
+			<key>hash2</key>
+			<data>
+			AMZ/n2vGD1h6G7HlBBrrx4y9AN/gRkMwRtpOa3DYgA8=
+			</data>
+		</dict>
+		<key>iMessage App Icon20x20@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5W89/h3JQBcXdYJ3GthzOfmu+AU=
+			</data>
+			<key>hash2</key>
+			<data>
+			hvIX5ybKhAZczVFWTpmngLDnwQ7IJSHiuMZdApRt4xQ=
+			</data>
+		</dict>
+		<key>iMessage App Icon20x20@2x~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5W89/h3JQBcXdYJ3GthzOfmu+AU=
+			</data>
+			<key>hash2</key>
+			<data>
+			hvIX5ybKhAZczVFWTpmngLDnwQ7IJSHiuMZdApRt4xQ=
+			</data>
+		</dict>
+		<key>iMessage App Icon20x20@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rGeQqke8mIvLgBYGmahIkgrBSsk=
+			</data>
+			<key>hash2</key>
+			<data>
+			Zak870x4KjF9hDEV/jhUuJrpyWtiTfyTpMM8J3qkGlY=
+			</data>
+		</dict>
+		<key>iMessage App Icon20x20~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fNi/TY2GunhRPxjwRKhS9ZwnAZM=
+			</data>
+			<key>hash2</key>
+			<data>
+			q4BaXWPuHwBIyTEBUGH3DILS3oGDO9V209gy7OqQtnc=
+			</data>
+		</dict>
+		<key>iMessage App Icon29x29@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PhAAM6FNxnkoe7m2fqzdjgtHomQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			qK2hBKfKWGxokSmxY+O4vgeP1Td3XcHEpmAJN0Ia4aY=
+			</data>
+		</dict>
+		<key>iMessage App Icon29x29@2x~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PhAAM6FNxnkoe7m2fqzdjgtHomQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			qK2hBKfKWGxokSmxY+O4vgeP1Td3XcHEpmAJN0Ia4aY=
+			</data>
+		</dict>
+		<key>iMessage App Icon29x29@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pSjxLO/Zkh5qa+N28ORyv5qj6HY=
+			</data>
+			<key>hash2</key>
+			<data>
+			Rf8PlAPvuQACXSSpHtwZWWrHcnXy8Mth/KYensVeSbI=
+			</data>
+		</dict>
+		<key>iMessage App Icon40x40@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fUCWi/OYuYx0fa08csFbSX2TgJA=
+			</data>
+			<key>hash2</key>
+			<data>
+			vGkDFXH56BF6RhvpBir0xf8fJQGZEkhZJBI5IFSdo+k=
+			</data>
+		</dict>
+		<key>iMessage App Icon40x40@2x~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fUCWi/OYuYx0fa08csFbSX2TgJA=
+			</data>
+			<key>hash2</key>
+			<data>
+			vGkDFXH56BF6RhvpBir0xf8fJQGZEkhZJBI5IFSdo+k=
+			</data>
+		</dict>
+		<key>iMessage App Icon40x40@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LA2SadghCIbp/QYXRfTAmAkqTzQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			dHUtw4+4o8WOoulXRV6tqEuCT1w8QSHbXWy0wao3K9s=
+			</data>
+		</dict>
+		<key>iMessage App Icon40x40~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5W89/h3JQBcXdYJ3GthzOfmu+AU=
+			</data>
+			<key>hash2</key>
+			<data>
+			hvIX5ybKhAZczVFWTpmngLDnwQ7IJSHiuMZdApRt4xQ=
+			</data>
+		</dict>
+		<key>iMessage App Icon60x60@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LA2SadghCIbp/QYXRfTAmAkqTzQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			dHUtw4+4o8WOoulXRV6tqEuCT1w8QSHbXWy0wao3K9s=
+			</data>
+		</dict>
+		<key>iMessage App Icon60x60@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ykn7Un2+HlxFkL68gtP/aDYjuvE=
+			</data>
+			<key>hash2</key>
+			<data>
+			2+AIAOujaurTXxDPDDSgVqB5ZODg2KgpxQrj+7lxdao=
+			</data>
+		</dict>
+		<key>iMessage App Icon76x76@2x~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pbI0pBWdoDHRVV2wSn1+7609TXY=
+			</data>
+			<key>hash2</key>
+			<data>
+			tEG///Bg2GilALqrMKqKLqTe55YHwe49ZTvxTSoe1eg=
+			</data>
+		</dict>
+		<key>iMessage App Icon76x76~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MwCGneNF/fv9gIZ8OAJ+Mffr34w=
+			</data>
+			<key>hash2</key>
+			<data>
+			HEZVV/jSYRrMMsrAT1vOMCFRhKDGIpTnETQ/iiw9B2s=
+			</data>
+		</dict>
+		<key>iMessage App Icon83.5x83.5@2x~ipad.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oO+yzSOShG3XNM6Z5XVJF5nNFV0=
+			</data>
+			<key>hash2</key>
+			<data>
+			Vmi3As71dO60EUVC9BerK/fSdNwO0KjWG33N+tHTLMQ=
+			</data>
+		</dict>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>^.*</key>
+		<true/>
+		<key>^.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
+		<key>^version.plist$</key>
+		<true/>
+	</dict>
+	<key>rules2</key>
+	<dict>
+		<key>.*\.dSYM($|/)</key>
+		<dict>
+			<key>weight</key>
+			<real>11</real>
+		</dict>
+		<key>^(.*/)?\.DS_Store$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>2000</real>
+		</dict>
+		<key>^.*</key>
+		<true/>
+		<key>^.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
+		<key>^Info\.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^PkgInfo$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^embedded\.provisionprofile$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^version\.plist$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+	</dict>
+</dict>
+</plist>

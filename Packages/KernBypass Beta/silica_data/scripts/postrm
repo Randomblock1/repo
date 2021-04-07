@@ -1,5 +1,0 @@
-#!/bin/sh
-
-echo "Reboot after uninstalling."
-
-exit 0
