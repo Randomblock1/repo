@@ -1,5 +1,5 @@
 Key-Type: RSA
-Key-Length: 4096
-Subkey-Length: 4096
-Name-Real: Silica MobileAPT Repository
+Key-Length: 3072
+Subkey-Length: 3072
+Name-Real: Benjamin Gonzalez
 Expire-Date: 0

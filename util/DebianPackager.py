@@ -534,7 +534,7 @@ class DebianPackager(object):
                 try:
                     if repo_settings['enable_gpg'].lower() == "true":
                         print("Signing repository with GPG...")
-                        key = "Silica MobileAPT Repository"  # Most of the time, this is acceptable.
+                        key = "Benjamin Gonzalez"  # Most of the time, this is acceptable.
                         call(["gpg", "-abs", "-u", key, "-o", "Release.gpg", "Release"], cwd=self.root + "docs/")
                         print("Generated Release.gpg!")
                 except Exception:
