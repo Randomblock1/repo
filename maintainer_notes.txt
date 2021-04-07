@@ -1,3 +1,0 @@
-Last upstream update: c3364d9cebbe244d2850429188dbc745f25f1596 at July 4
-Last checked: 12/14/20
-note to self: extract upstream zip and then git diff files. Don't just merge, or customizations will be lost!
