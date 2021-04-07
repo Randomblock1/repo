@@ -7,13 +7,13 @@
     <link rel="stylesheet" type="text/css" href="../../web/index.css">
     <style>a, .tint, .table-btn:after {color: #55c6d3} .active {color: #55c6d3;border-bottom: 2px solid #55c6d3;}</style>
     <script src="../../web/index.js"></script>
-    <meta name="description" content="A package by akusio for iOS 12.0 to 14.0.">
+    <meta name="description" content="A package by akusio, Misty, XsF1re for iOS 12.0 to 14.9.">
     <meta property="og:title" content="KernBypass Beta">
-    <meta property="og:description" content="A package by akusio for iOS 12.0 to 14.0.">
+    <meta property="og:description" content="A package by akusio, Misty, XsF1re for iOS 12.0 to 14.9.">
     <meta property="og:image" content="../../assets/jp.akusio.kernbypassbeta/banner.png">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="KernBypass Beta">
-    <meta name="twitter:description" content="A package by akusio for iOS 12.0 to 14.0.">
+    <meta name="twitter:description" content="A package by akusio, Misty, XsF1re for iOS 12.0 to 14.9.">
     <meta name="twitter:image" content="https://randomblock1.com/repo/assets/jp.akusio.kernbypassbeta/banner.png">
     <meta name="theme-color" content="#55c6d3">
 </head>
@@ -24,7 +24,7 @@
             <img src="../../assets/jp.akusio.kernbypassbeta/icon.png">
             <div class="package_info">
                 <h1 class="package_name">KernBypass Beta</h1>
-                <p class="package_caption">akusio</p>
+                <p class="package_caption">akusio, Misty, XsF1re</p>
             </div>
         </div>
         <div class="nav">
@@ -32,71 +32,65 @@
             <div class="nav_btn changelog_btn" onclick="swap('.tweak_info','.changelog');">Changelog</div>
         </div>
         <div class="tweak_info">
-            <p class="compatibility"><b>Compatibility:</b> This package is compatible with iOS iOS 12.0 to 14.0.</p>
+            <p class="compatibility"><b>Compatibility:</b> This package is compatible with iOS iOS 12.0 to 14.9.</p>
             
             <div class="md_view">
                 <p><h1>KernBypass Beta</h1>
 <p>This version contains the following changes:</p>
 <ul>
-<li>Added KernBypass Daemon</li>
+<li>iOS 14 support</li>
+<li>/var/ spoofing</li>
 </ul>
 <hr>
-<h1>KernBypass</h1>
-<p>kernel level jailbreak detection bypass</p>
-<h2>Support Devices</h2>
-<ul>
-<li>iOS12.0-13.x (confirmed on iOS12.4 and above)</li>
-<li>A7-A13</li>
-<li>unc0ver or checkra1n</li>
-</ul>
-<h2>Credits</h2>
-<ul>
-<li>maphys by 0x7ff</li>
-<li>vnodebypass by @XsF1re</li>
-<li>jelbrekLib by @Jakeashacks</li>
-<li>Translated by sohsatoh</li>
-<li>iOS12 support by dora2-iOS</li>
-</ul>
-<h2>WARNING</h2>
-<p><strong>This tweak is the kernel level. There is NO warranty. Run it at your own risk.</strong></p>
-<h2>Getting Started</h2>
-<h3>Installation</h3>
-<ol>
-<li><a href="https://github.com/akusio/KernBypass-Public/releases/download/0.0.1/jp.akusio.kernbypass_0.0.1_iphoneos-arm.deb">download</a> and install the deb file.
-### Setting up KernBypass</li>
-<li>In terminal, run <code>su</code> and type your password.</li>
-<li>Run <code>changerootfs &amp;</code> (don't forget "&amp;").</li>
-<li>Run <code>disown %1</code></li>
-<li>Done. The changerootfs is now a daemon.</li>
-</ol>
-<h3>Selecting apps to bypass</h3>
-<ol>
-<li>After installing changerootfs, open Preferences &gt; KernBypass, then select the applications to be enabled the bypass.</li>
-</ol>
-<h2>Uninstall</h2>
-<ol>
-<li>Just uninstall from Cydia.</li>
-<li>REBOOT!!!</li>
-</ol>
-<h2>License</h2>
-<p>KernBypass is licensed under the <a href="LICENSE">GPLv3</a>.</p>
+<p>KernBypass
+kernel level jailbreak detection bypass</p>
+<p>Support Devices
+iOS12.0-14.x? (confirmed on iOS12.4 and above)
+A7-A13
+unc0ver or checkra1n
+Credits
+maphys by 0x7ff
+vnodebypass and iOS14 Support by @XsF1re
+jelbrekLib by @Jakeashacks
+Translated by sohsatoh
+iOS12 support by dora2-iOS
+WARNING
+This tweak is the kernel level. There is NO warranty. Run it at your own risk.</p>
+<p>Getting Started
+Installation
+Remove file /var/mobile/Library/Preferences/jp.akusio.kernbypass.plist if exist.
+download and install the deb file.
+Setting up KernBypass
+In terminal, run su and type your password.
+Download the fakevar.zip from <a href="http://repo.misty.moe/apt/fakevar13.zip">http://repo.misty.moe/apt/fakevar13.zip</a>, and extract it to /var/mobile/fakevar (whatever method you use to extract, make sure there’s /var/mobile/fakevar/mobile)
+Run preparerootfs
+Run changerootfs &amp; (don't forget "&amp;").
+Run disown %1
+Done. The changerootfs is now a daemon.
+Selecting apps to bypass
+After installing changerootfs, open Preferences &gt; KernBypass, then select the applications to be enabled the bypass.
+Uninstall
+Just uninstall from Cydia.
+REBOOT!!!
+License
+KernBypass is licensed under the GPLv3.</p>
 </p>
             </div>
             <h3>Information</h3>
             <div class="table">
                 <div class="cell">
                     <div class="title">Developer</div>
-                    <div class="text">akusio</div>
+                    <div class="text">akusio, Misty, XsF1re</div>
                     <br><br>
                 </div>
                 <div class="cell">
                     <div class="title">Version</div>
-                    <div class="text">0.0.3b</div>
+                    <div class="text">0.0.3b-1</div>
                     <br><br>
                 </div>
                 <div class="cell">
                     <div class="title">Compatibility</div>
-                    <div class="text">iOS 12.0 to 14.0</div>
+                    <div class="text">iOS 12.0 to 14.9</div>
                     <br><br>
                 </div>
                 <div class="cell">
@@ -119,10 +113,14 @@
                 <h4>0.0.3b</h4>
                 <div class="md_view"><p>Add KernBypass Daemon</p>
 </div>
+            </div><div class="changelog_entry">
+                <h4>0.0.3b-1</h4>
+                <div class="md_view"><p>add iOS 14 support</p>
+</div>
             </div>
         </div>
-        <div class="caption center footer">Silica 1.2.2 – Updated 2020-12-15</div>
+        <div class="caption center footer">Silica 1.2.2 – Updated 2021-04-07</div>
     </div>
 </body>
-<script>compatible("12.0","14.0","iOS 12.0 to 14.0");externalize()</script>
+<script>compatible("12.0","14.9","iOS 12.0 to 14.9");externalize()</script>
 </html>
